@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(45, 226, 254);
+    color: black;  
+}
+
+h1{
+
+   font-family:Verdana, Geneva, Tahoma, sans-serif; 
+   color: rgb(236, 35, 59);
+}
+img{
+
+    width: 400px;
+    height: 300px;
+}
+
+#boton1 {
+    color: crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    border-radius: 6px;
+}
+
+.resaltado{
+    color: rgb(222, 98, 15);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    border-radius: 6px;
+}
